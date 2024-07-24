@@ -10,7 +10,6 @@ Flystar SaaS Website is a comprehensive solution designed to deliver a seamless 
 </div>
 </div>
 <br/>
-https://github.com/Seyma44/flystar-saas-website/assets/3766249/cba5ff51-056b-4c24-acc1-b7bf387388b2
 
 ## Getting Started
 
